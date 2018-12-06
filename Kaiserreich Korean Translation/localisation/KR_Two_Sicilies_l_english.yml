@@ -67,7 +67,7 @@ SIC_state_catholic_unions_desc:0 "Workers together, meeting and working together
 SIC_farm_upgrades_desc:0 "No more can the ploughshare and wheelbarrow truly be deemed the tools of the farmers; tractors and other machines of the modern age are slowly but surely taking their place"
 
 ### Country Flags ###
-SIC_locked_and_loaded:0 "파업 준비"
+SIC_locked_and_loaded:0 "침공 준비"
 SIC_elections:0 "1937년 의회 선거가 일어났다."
 SIC_elections_SD:0 "기독민주당의 선거 승리"
 SIC_elections_SL:0 "대중민주당의 선거 승리"
@@ -153,7 +153,7 @@ SIC_planning_grand_offensive:0 "대공세 계획"
 SIC_planning_grand_offensive_desc:0 "Invading the North will be no easy task; Terrain, climate and the logistics of French reinforcements all must be taken into account if we are to triumph in this dangerous battle"
 SIC_armored_thrusts:0 "Armoured Thrusts"
 SIC_armored_thrusts_desc:0 "The Syndicalists likely have battle lines waiting for us... to smash through them with the power of Italian engineering!"
-SIC_strike_now:0 "파업을 시작하라!"
+SIC_strike_now:0 "침공을 하라!"
 SIC_strike_now_desc:0 "The time has come! The Syndicalists are busy elsewhere, and the opening we were waiting for has presented itself. Italy will be reclaimed!"
 SIC_apenini:0 "Arditi degli Appennini"
 SIC_apenini_desc:0 "The mountainous region in the border with the Syndicalist controlled areas will be a crucial battleground. As will be the Alps, once we are forced to face the French menace. Our elite troops, heirs of the surviving Alpini of the Italian Federal Army, will gallantly serve again"
